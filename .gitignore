@@ -73,3 +73,20 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# === GIGANT ATTRIBUTES SUPPORT ===
+
+# Mantener solo el código generado necesario
+!/[Aa]ssets/GigantAttributes/Generated/
+!/[Aa]ssets/GigantAttributes/Generated/**
+
+# Ignorar cachés y archivos pesados automáticos
+/[Aa]ssets/GigantAttributes/Cache/
+/[Aa]ssets/GigantAttributes/Cache/**
+/[Aa]ssets/GigantAttributes/Previews/
+/[Aa]ssets/GigantAttributes/Previews/**
+/[Aa]ssets/GigantAttributes/Logs/
+/[Aa]ssets/GigantAttributes/Logs/**
+/[Aa]ssets/GigantAttributes/Temp/
+/[Aa]ssets/GigantAttributes/Temp/**
+
